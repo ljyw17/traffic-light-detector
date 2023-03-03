@@ -17,3 +17,5 @@ cd mmdetection
 pip install -r requirements/build.txt
 
 pip install -v -e .
+
+https://github.com/ljyw17/traffic-light-detector.git
