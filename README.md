@@ -1,5 +1,6 @@
 # traffic-light-detector
 This project is developed based on mmdetection. Please refer to the tutorial: https://github.com/open-mmlab/mmdetection
+
 Only a simple installation reference is provided here.
 
 conda create -n openmmlab python=3.7 pytorch==1.6.0 cudatoolkit=10.1 torchvision -c pytorch -y
