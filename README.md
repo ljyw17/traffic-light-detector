@@ -1,5 +1,7 @@
 # traffic-light-detector
-This project is developed based on mmdetection. Please refer to the tutorial: https://github.com/open-mmlab/mmdetection
+This project is developed based on mmdetection. 
+
+Please refer to the tutorial: https://github.com/open-mmlab/mmdetection
 
 Only a simple installation reference is provided here.
 
