@@ -5,6 +5,8 @@ Please refer to the tutorial: https://github.com/open-mmlab/mmdetection
 
 Only a simple installation reference is provided here.
 
+--------------------------------------------------------------------
+
 conda create -n openmmlab python=3.7 pytorch==1.6.0 cudatoolkit=10.1 torchvision -c pytorch -y
 
 conda activate openmmlab
@@ -23,6 +25,6 @@ pip install -v -e .
 
 git clone https://github.com/ljyw17/traffic-light-detector.git
 
-
+--------------------------------------------------------------------
 
 A video of the results of Dynamic-TLD running on S2TLD (1080) can be found here: https://youtu.be/fCoxZq57o3o.
