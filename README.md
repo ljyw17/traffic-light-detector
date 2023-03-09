@@ -22,3 +22,7 @@ pip install -r requirements/build.txt
 pip install -v -e .
 
 git clone https://github.com/ljyw17/traffic-light-detector.git
+
+
+
+A video of the results of Dynamic-TLD running on S2TLD (1080) can be found here: https://youtu.be/fCoxZq57o3o.
